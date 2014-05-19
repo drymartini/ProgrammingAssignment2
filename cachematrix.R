@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Coursera R-Language Programming Programming Assignment 2.
+
+## Functions for a custom matrix that can cache its inverse.
 
 ## The constructor for a custom matrix object that can cache its inverse.
 
