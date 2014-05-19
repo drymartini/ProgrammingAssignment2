@@ -30,7 +30,9 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Write a short comment describing this function
+## Given a custom matrix object representing an invertible matrix,
+## return a basic matrix object that is its inverse. Use the
+## cached inverse if available, otherwise calculate and cache.
 
 cacheSolve <- function(x, ...) {
   ## Return a matrix that is the inverse of 'x'
